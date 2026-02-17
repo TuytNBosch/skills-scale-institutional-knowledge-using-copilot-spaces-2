@@ -13,15 +13,18 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Pull Request workflow:
   - Small PRs (<= 400 lines when possible)
   - Include issue link and acceptance criteria in PR description
-  - Run automated tests and linting in CI before requesting review
+  - Run automated tests and linting in CI before requesting review (coordinated by Automation Specialist)
   - Require at least one approval before merging (or team-defined policy)
+- Automation Specialist maintains CI/CD pipelines and ensures automated quality gates are functioning
 
 ## Quality & Testing
-- Unit tests for new logic
+- Quality Assurance Lead coordinates overall testing strategy and quality standards
+- Developers write unit tests for new logic
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
-- Security scanning in CI
-- Manual QA for feature acceptance when needed
+- Security scanning in CI (configured by Automation Specialist)
+- Manual QA for feature acceptance coordinated by Quality Assurance Lead
+- Quality metrics and test coverage reviewed in weekly delivery syncs
 
 ## Reporting & Metrics
 - Track velocity and burndown
