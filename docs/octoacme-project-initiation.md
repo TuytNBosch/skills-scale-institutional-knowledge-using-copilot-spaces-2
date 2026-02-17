@@ -14,10 +14,13 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Minimum Deliverables
 - Project One-pager (Problem, Goal, Success Metrics)
-- Stakeholder list & communication plan
+- Stakeholder list & communication plan (coordinated by Stakeholder Liaison)
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Quality approach and testing strategy outline (input from Quality Assurance Lead)
+- Change management approach (input from Change Manager)
+- Automation opportunities and CI/CD requirements (input from Automation Specialist)
 
 ## Project One-pager Template
 - Project name:
@@ -31,7 +34,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
-- [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Sponsor / Stakeholder alignment (email or meeting, facilitated by Stakeholder Liaison)
+- [ ] Key roles identified: PM, Product Manager, Developers, QA Lead, Change Manager, Stakeholder Liaison, Automation Specialist
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)

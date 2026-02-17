@@ -17,7 +17,10 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- Quality Assurance Lead: designs testing strategies, ensures quality criteria, coordinates defect resolution.
+- Change Manager: manages project changes, ensures documentation and communication of changes.
+- Stakeholder Liaison: primary contact for stakeholder input, consolidates requirements and feedback.
+- Automation Specialist: identifies automation opportunities, implements CI/CD pipelines, maintains automation tools.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts
